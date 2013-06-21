@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iBAK.CY",
+        "filename": "camera/CameraWrapper.cpp",
+        "patchSetId": 9
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 263
+      },
+      "writtenOn": "2013-06-21T16:55:15Z",
+      "side": 1,
+      "message": "Probably best to add the hdr value by getting the current supported list and adding it to that, as different devices could have a different list of scenes",
+      "revId": "37f375fbf693d536db584094de996c4e6033c16e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
