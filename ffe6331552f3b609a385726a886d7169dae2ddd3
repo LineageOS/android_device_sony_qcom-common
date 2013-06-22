@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iKtgfTY",
+        "filename": "overlay/packages/apps/Camera/res/values/config.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2013-06-22T21:42:34Z",
+      "side": 1,
+      "message": "I think I should rather add this as a new changes, because it needs http://review.cyanogenmod.org/44564",
+      "revId": "ffe6331552f3b609a385726a886d7169dae2ddd3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
