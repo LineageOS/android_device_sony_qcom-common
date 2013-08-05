@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aca2d91_e85c4def",
+        "filename": "qcom-common-2xx.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2013-08-05T01:49:48Z",
+      "side": 0,
+      "message": "Gotta check this (whether the new blobs support 3.0 or not), other than this it\u0027s all good.",
+      "revId": "d61529c1a831cac0c6d9f964c42ff75257bd7a54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
