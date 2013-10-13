@@ -16,6 +16,24 @@
       "revId": "c78cfc7fa787f9e32ce0c02dba72af0103704c5b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_a243fa6b",
+        "filename": "liblights/lights.cpp",
+        "patchSetId": 9
+      },
+      "lineNbr": 294,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2013-10-13T02:59:46Z",
+      "side": 1,
+      "message": "this mean sony is not supporting it\nill change the comment\n\nthank\u0027s",
+      "parentUuid": "3a50d1a3_c2a3a64e",
+      "revId": "c78cfc7fa787f9e32ce0c02dba72af0103704c5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
