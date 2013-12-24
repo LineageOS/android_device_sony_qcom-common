@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_30742efc",
+        "filename": "overlay/packages/apps/Camera2/res/values/qcomarrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2013-12-24T23:48:25Z",
+      "side": 1,
+      "message": "I need to move these to strings (some are present in qcomstrings.xml, excluding the ones we added here).",
+      "revId": "19585165495e17f4ad21b0be49083319943c89b3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
