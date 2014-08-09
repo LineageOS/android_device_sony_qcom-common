@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_b2778dd3",
+        "filename": "camera/CameraWrapper.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2014-08-09T01:01:41Z",
+      "side": 1,
+      "message": "(continued from above comment), this could be changed to use LOG_PARAMETERS.\n\nUse case: when you want to debug just params.",
+      "revId": "fb10cfb0dc4b1358f49a00b1ed45f08bf7e61f0d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
