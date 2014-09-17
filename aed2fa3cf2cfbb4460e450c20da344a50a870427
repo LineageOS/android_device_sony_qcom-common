@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_05038743",
+        "filename": "camera/workaround/src/org/cyanogenmod/sonycameraworkaround/CameraWorkaround.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-17T09:16:45Z",
+      "side": 1,
+      "message": "Should probably have a null check on mCamera here.",
+      "revId": "aed2fa3cf2cfbb4460e450c20da344a50a870427",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
