@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_5810bd01",
+        "filename": "camera/Android.mk",
+        "patchSetId": 8
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2014-09-27T16:35:00Z",
+      "side": 1,
+      "message": "This works, but I wonder WWJBQD, and the solution below this could be used too if we want to keep it in the same dir.\n\nCould also move it out to it\u0027s own directory, though I would rather find out what the bug is (it looks like that line is simply ignored from a quick test, and that parameter (LOCAL_PATH) isn\u0027t used, so that\u0027s not needed.)",
+      "revId": "f9e976f798498b8d1d66feb1c8c3b39457b00021",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
