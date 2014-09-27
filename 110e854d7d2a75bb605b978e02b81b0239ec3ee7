@@ -34,6 +34,24 @@
       "revId": "110e854d7d2a75bb605b978e02b81b0239ec3ee7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_5859ddfd",
+        "filename": "camera/Android.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2014-09-27T16:22:13Z",
+      "side": 1,
+      "message": "Top doesn\u0027t work because LOCAL_PATH gets changed, but no idea why keeping it at the bottom doesn\u0027t (I only tested with mmm so hadn\u0027t noticed that).",
+      "parentUuid": "7a1b2928_6dacd935",
+      "revId": "110e854d7d2a75bb605b978e02b81b0239ec3ee7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
