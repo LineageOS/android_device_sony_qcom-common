@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a18252c_4a549f53",
+        "filename": "rootdir/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2014-10-22T16:58:47Z",
+      "side": 1,
+      "message": "Could ifdef just this, as the rest are same.",
+      "revId": "e5ea8f0b6779c153db4acc008fb2c6eb6c2fc2b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
