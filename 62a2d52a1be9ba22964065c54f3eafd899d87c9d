@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_fc2f20f4",
+        "filename": "qcom-common.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2014-12-21T20:39:25Z",
+      "side": 1,
+      "message": "This is the problem.",
+      "revId": "62a2d52a1be9ba22964065c54f3eafd899d87c9d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
