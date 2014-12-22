@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_b71ad16c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2014-12-22T07:07:54Z",
+      "side": 1,
+      "message": "overriden :P",
+      "revId": "e6d919b5d9c9198cb5495c6e8e9dc2cb6c446d8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_d71ddd67",
+        "filename": "ril/telephony/java/com/android/internal/telephony/SonyRIL.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2014-12-22T07:07:54Z",
+      "side": 1,
+      "message": "Should be below the below import.",
+      "revId": "e6d919b5d9c9198cb5495c6e8e9dc2cb6c446d8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
